@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["dev server", "reload", "static", "file watcher"],
   "author": "Jørgen Skogmo <js@base.io> (http://base.io/)",
   "license": "MIT",
   "dependencies": {
